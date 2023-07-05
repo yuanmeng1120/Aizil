@@ -1,4 +1,4 @@
-一份很全的AI初创产品列表。Just Another AI Product List. Only with a lot of items.
+一份很全的AI初创产品列表。Just Another AI Product List, but with a lot of items.
 
 # 在线地址
 
