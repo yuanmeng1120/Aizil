@@ -121,7 +121,7 @@ function App() {
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mx-20 my-20">
-            {filteredData.map((item, index) => ( item.favCount > 100 &&
+            {filteredData.map((item, index) => ( item.favCount > 10 &&
 
               <div key={index} className="bg-white shadow-md rounded-md overflow-hidden flex flex-col">
                 <div className="px-4 pt-4 flex justify-between items-center">
